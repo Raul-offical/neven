@@ -1,0 +1,31 @@
+
+.card {
+margin: 10xp;
+flex: 0 0 calc(33.333% - 20px);
+}
+
+.card img{
+    object-fit: cover;
+    height: 300px;
+    border-radius: 15px;
+
+}
+
+.carousei{
+max-width: 100%;
+height: auto;
+margin: 0 auto;
+}
+.carousei-item img{
+width: 100%;
+height: 650px;
+object-fit: cover;
+}
+.frame{
+display: inline;
+width: 32%;
+float: center;
+margin: 5px;
+margin-left: 10px;
+border-radius: 20px;
+}
